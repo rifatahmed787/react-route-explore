@@ -1,0 +1,9 @@
+.headers a {
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.active {
+    background-color: aqua;
+    border-radius: 3px;
+}
